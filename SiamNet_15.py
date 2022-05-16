@@ -7,6 +7,7 @@ import torch.nn as nn
 # https://rcdaudt.github.io/
 
 #exemple
+#exemple2
 
 class SiamNet_15(nn.Module):
     def __init__(self, n_in = 3):
