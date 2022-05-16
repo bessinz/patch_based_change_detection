@@ -6,8 +6,6 @@ import torch.nn as nn
 # Rodrigo Caye Daudt
 # https://rcdaudt.github.io/
 
-#exemple
-
 class SiamNet_15(nn.Module):
     def __init__(self, n_in = 3):
         super(SiamNet_15, self).__init__()
